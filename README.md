@@ -24,7 +24,7 @@ Now connecting through the EC2 instance public ip and the port 8080
 
 ![Capture d'écran 2024-08-29 204049](https://github.com/user-attachments/assets/0ff45bc7-7538-466a-8442-3ada780f9b2c)
 
-And Finally , it workds
+And Finally , it works
 
 ![Capture d'écran 2024-08-29 204038](https://github.com/user-attachments/assets/8476d001-d90d-4fb6-aeb2-70954c095cea)
 
