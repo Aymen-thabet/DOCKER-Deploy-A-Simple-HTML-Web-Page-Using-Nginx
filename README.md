@@ -4,7 +4,8 @@ This is the overall steps
 
 First Step to Do is created an EC2 instance and install Docker on it : 
 
-![Capture d'écran 2024-08-29 202235](https://github.com/user-attachments/assets/385b914e-8277-4d72-bb69-6f14bbc2b5ff)
+![Capture d'écran 2024-08-29 202556](https://github.com/user-attachments/assets/ed90ede7-0a67-472e-9eb9-95bae09c95d2)
+
 
 *Named it Docker*
 
@@ -14,7 +15,10 @@ Second Step , I created a directory for the html page , " /website" and the html
 
 
 We know that by default, Nginx looks in the /usr/share/nginx/html directory inside of the container for files to serve.
-So we are going to run an nginx container and expose it using port  8080 
+So we are going to run an nginx container and expose it using port  8080 :
+
+![Capture d'écran 2024-08-29 203915](https://github.com/user-attachments/assets/3bbd74f9-07f8-4ef4-9754-fde9f5a8c0f0)
+
 
 Now connecting through the EC2 instance public ip and the port 8080 
 
